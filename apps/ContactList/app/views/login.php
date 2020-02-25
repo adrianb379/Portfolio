@@ -20,7 +20,7 @@
                     <input type="password" name="pass" placeholder="Password" required>
                     <input type="submit" value="Entrar">
                 </form>
-                <p>Aun no tienes registro? <a href="signup">Clique aqui</a></p>
+                <p>Aun no tienes registro? <a href="signup">Click aqui</a></p>
             </div>
         </section>
 
