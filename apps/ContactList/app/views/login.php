@@ -10,17 +10,17 @@
     <body>
 
         <header>
-            <p>Acesso</p>
+            <p>Acceso</p>
         </header>
 
         <section>
             <div>
                 <form action="loging" method="post">
                     <input type="email" name="email" placeholder="E-mail" required>
-                    <input type="password" name="pass" placeholder="Senha" required>
+                    <input type="password" name="pass" placeholder="Password" required>
                     <input type="submit" value="Entrar">
                 </form>
-                <p>Ainda não tem cadastro? <a href="signup">Clique aqui</a></p>
+                <p>Aun no tienes registro? <a href="signup">Clique aqui</a></p>
             </div>
         </section>
 
