@@ -1,0 +1,71 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#header {
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+    font-size: 15pt;
+}
+
+#section {
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+}
+
+p {
+    padding: 10px;
+}
+
+#available-banknotes {
+    width: 100%;
+    display: flex;
+    list-style: none;
+    justify-content: center;
+}
+
+#available-banknotes li {
+    padding: 10px;
+}
+
+button {
+    border: none;
+    padding: 10px;
+    width: 100px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+#withdraw-window {
+    width: 100%;
+    display: none;
+    justify-content: center;
+    flex-direction: column;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+input {
+    width: 200px;
+    padding: 10px;
+    margin: 10px;
+}
+
+input[type=submit] {
+    border: none;
+    cursor: pointer;
+}
+
+#deposit-window {
+    width: 100%;
+    display: none;
+    justify-content: center;
+}

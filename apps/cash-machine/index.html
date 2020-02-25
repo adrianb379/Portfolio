@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Cajero Automatico</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+
+        <header id="header">
+            <p>Cajero Automatico</p>
+        </header>
+
+        <section id="section">
+            <div id="divone">
+                <p style="font-weight: 700;">Saldo</p>
+                <p id="available-balance"></p>
+                <p style="font-weight: 700;">Limite disponible</p>
+                <ul id="available-banknotes"></ul>
+            </div>
+            <div id="withdraw-deposit">
+                <button id="withdraw">Extraccion</button>
+                <button id="deposit">Deposito</button>
+            </div>
+            <div id="withdraw-window">
+                <form id="withdrawing">
+                    <input type="text" id="withdraw-hundreds" placeholder="Notas de R$100">
+                    <input type="text" id="withdraw-fiftys" placeholder="Notas de R$50">
+                    <input type="text" id="withdraw-twentys" placeholder="Notas de R$20">
+                    <input type="text" id="withdraw-tens" placeholder="Notas de R$10">
+                    <input type="submit" value="Sacar">
+                </form>
+                <p style="color: red;" id="limit"></p>
+            </div>
+            <div id="deposit-window">
+                <form id="depositing">
+                    <input type="text" id="deposit-hundreds" placeholder="Limite de R$100">
+                    <input type="text" id="deposit-fiftys" placeholder="Limite de R$50">
+                    <input type="text" id="deposit-twentys" placeholder="Limite de R$20">
+                    <input type="text" id="deposit-tens" placeholder="Limite de R$10">
+                    <input type="submit" value="Depositar">
+                </form>
+            </div>
+        </section>
+
+        <script src="script.js"></script>
+    </body>
+</html>
