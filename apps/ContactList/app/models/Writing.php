@@ -12,7 +12,7 @@ class Writing
         $queryEmail->bindValue(':email', $email);
         $queryEmail->execute();
         if ($queryEmail->rowCount() >= 1) {
-            echo '<script>alert("E-mail já cadastrado!")</script>';
+            echo '<script>alert("Email ya registrado!")</script>';
             echo '<script>setTimeout(window.location="'.DIRPAGE.'")</script>';
         } else {
 
@@ -22,7 +22,7 @@ class Writing
             $writing->bindValue(':pass', $pass);
             $writing->execute();
 
-            echo '<script>alert("Usuário cadastrado com sucesso!")</script>';
+            echo '<script>alert("Usuário registrado con exito!")</script>';
             echo '<script>setTimeout(window.location="'.DIRPAGE.'")</script>';
         }
 

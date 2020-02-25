@@ -13,7 +13,7 @@ class Writingitem
         $queryContact->bindValue(':phone', $phone);
         $queryContact->execute();
         if ($queryContact->rowCount() >= 1) {
-            echo '<script>alert("Contato já cadastrado!")</script>';
+            echo '<script>alert("Contacto ya registrado!")</script>';
             echo '<script>setTimeout(window.location="'.DIRPAGE.'")</script>';
         } else {
 
@@ -24,7 +24,7 @@ class Writingitem
             $writing->bindValue(':own', $_SESSION['user']);
             $writing->execute();
 
-            echo '<script>alert("Novo contato cadastrado com sucesso!")</script>';
+            echo '<script>alert("Nuevo contacto registrado con exito!")</script>';
             echo '<script>setTimeout(window.location="'.DIRPAGE.'")</script>';
         }
 

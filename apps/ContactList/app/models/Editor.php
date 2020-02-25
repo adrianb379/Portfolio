@@ -13,7 +13,7 @@ class Editor
         $erasing->bindValue(':id', $id);
         $erasing->execute();
 
-        echo '<script>alert("Contato atualizado com sucesso!")</script>';
+        echo '<script>alert("Contacto actualizado con exito!")</script>';
         echo '<script>setTimeout(window.location="'.DIRPAGE.'")</script>';
 
     }

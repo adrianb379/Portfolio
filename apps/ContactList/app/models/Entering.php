@@ -20,11 +20,11 @@ class Entering
                 $_SESSION['user'] = $email;
                 header('Location: '.DIRPAGE.'');
             } else {
-                echo '<script>alert("Senha incorreta. Verifique e tente novamente.")</script>';
+                echo '<script>alert("Contraseña incorrecta. Verifique e intente nuevamente.")</script>';
                 echo '<script>setTimeout(window.location="'.DIRPAGE.'")</script>';
             }
         } else {
-            echo '<script>alert("E-mail não encontrado. Verifique e tente novamente.")</script>';
+            echo '<script>alert("Email no encontrado. Verifique e intente nuevamente.")</script>';
             echo '<script>setTimeout(window.location="'.DIRPAGE.'")</script>';
         }
 
