@@ -40,7 +40,7 @@ class defaultValues {
             }
         }
 
-        document.querySelector('#available-balance').innerHTML = `R$ ${balance.toLocaleString('pt-BR')}`;
+        document.querySelector('#available-balance').innerHTML = `$ ${balance.toLocaleString('pt-BR')}`;
 
         // open or close withdraw and deposit windows
         function openWD() {
@@ -77,7 +77,7 @@ class defaultValues {
                 var te10 = banknotes.tens-(ten*10);
                 var sum = (hundred*100) + (fifty*50) + (twenty*20) + (ten*10);
                 if (sum > 2000) {
-                    document.querySelector('#limit').innerHTML = 'Limite de saque excedido (Limite: R$ 2.000,00)';
+                    document.querySelector('#limit').innerHTML = 'Limite de saque excedido (Limite: $ 2.000,00)';
                 } else {
                     document.querySelector('#limit').innerHTML = '';
                     new defaultValues(h100, f50, t20, te10);
