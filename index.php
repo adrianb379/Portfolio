@@ -29,6 +29,7 @@
 
             <h1>Adrian Bogado</h1>
             <p>Desarrollador Junior</p>
+            <h3>PRUEBE ESTAS APLICACIONES WEB:</h3>
         </header>
 
         <section id="projects">
@@ -45,7 +46,7 @@
     <img  src="img/ecom.jpg" class="img-fluid" alt="Responsive image">
   </div>
   <div class="contents">
-    <h2> Ecommerce </h2>
+    <h2> <strong>-Ecommerce</strong> </h2>
     <ul>
       <li> Caracteristicas</li>
     </ul>
@@ -58,7 +59,7 @@
     <img  src="img/game.jpg" class="img-fluid" alt="Responsive image">
   </div>
   <div class="contents-right">
-    <h4> Juego de Preguntas y Respuestas </h4>
+    <h4> <strong>-Juego de Preguntas y Respuestas</strong> </h4>
     <ul>
       <li> Caracteristicas</li>
     </ul>

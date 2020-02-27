@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <link rel="stylesheet" href="css/index.css">
     <!-- Place your kit's code here -->
-    <script src="https://kit.fontawesome.com/414006261c.js" crossorigin="anonymous"></script>
+    <script src="https://kit.fontawesome.com/85c94c85e5.js" crossorigin="anonymous"></script>
 
 </head>
 
@@ -47,14 +47,17 @@
 
         <div class="contacto">
             <h1> Contacto</h1>
-        <a href="https://www.linkedin.com/in/adrian-bogado-7747aaab/" target="blank"><i class="fab fa-linkedin icono-linkedin redes-hover"></i></a>
-        <a href="https://github.com/adrianb379" target="blank"><i class="fab fa-github-square icono-github redes-hover"></i></a>
-        <a href="mailto:adrianbogado67@gmail.com" target="blank"><i class="fas fa-envelope-square icono-email redes-hover"></i></a>
-        <a href="https://api.whatsapp.com/send?phone=541130589941&text=&source=&data=" target="blank"><i class="fab fa-whatsapp-square icono-whatsapp redes-hover"></i></a>
+      <div> Linkedin: <a href="https://www.linkedin.com/in/adrian-bogado-7747aaab/" target="blank"><i class="fab fa-linkedin icono-linkedin redes-hover"></i></a></div>
+          <div>Github:<a href="https://github.com/adrianb379" target="blank"><i class="fab fa-github-square icono-github redes-hover"></i></a></div>
+          <div>Gmail:<a href="mailto:adrianbogado67@gmail.com" target="blank"><i class="fas fa-envelope-square icono-email redes-hover"></i></a></div>
+          <div>whatsapp<a href="https://api.whatsapp.com/send?phone=541130589941&text=&source=&data=" target="blank"><i class="fab fa-whatsapp-square icono-whatsapp redes-hover"></i></a></div>
         </div>
 
     </main>
 </div>
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
 </body>
 
 </html>
