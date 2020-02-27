@@ -4,7 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Ariel Jans | Diseño y Programación Web</title>
+    <title>Adrian Bogado| Desarrollador</title>
+    <link rel="shortcut icon" href="img/icon.png" type="image/x-icon">
     <link href="https://fonts.googleapis.com/css?family=BenchNine|Cabin+Condensed|Fjalla+One|Michroma|Montserrat|Teko|Varela&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <link rel="stylesheet" href="css/index.css">
@@ -23,7 +24,7 @@
 </button>
 <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
 <div class="navbar-nav">
-  <a class="nav-item nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
+  <a class="nav-item nav-link active" href="index.php">Home <span class="sr-only">(current)</span></a>
   <a class="nav-item nav-link" href="contacto.php">Sobre Mi</a>
 
 </div>

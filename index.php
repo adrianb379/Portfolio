@@ -19,7 +19,7 @@
   </button>
   <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
     <div class="navbar-nav">
-      <a class="nav-item nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
+      <a class="nav-item nav-link active" href="index.php">Home <span class="sr-only">(current)</span></a>
       <a class="nav-item nav-link" href="contacto.php">Sobre Mi</a>
 
     </div>
@@ -50,7 +50,7 @@
       <li> Caracteristicas</li>
     </ul>
     <p>Ecommerce desarrollado con HTML,CSS,PHP Y MYSQL. Cuenta con un abm de productos, registro,login, contacto,faqs,entre otras.</p>
-    <a class="project-link" href="#">Ir al repositorio</a>
+    <a class="project-link" href="https://github.com/adrianb379/EcommerceDH">Ir al repositorio</a>
   </div>
 </div>
 <div class="user-projects">
@@ -64,7 +64,7 @@
     </ul>
     <p> Juego de preguntas y respuestas desarrollado con HTML,CSS,PHP,POO,MY SQL. Luego se paso el proyecto a LARAVEL
     El mismo cuenta con un panel de admin(carga,alta,baja de preguntas), registros,login,faqs,contactos,entre otros</p>
-    <a class="project-link" href="#">Ir al repositorio</a>
+    <a class="project-link" href="https://github.com/ArielJans/DH-Laravel">Ir al repositorio</a>
   </div>
 </div>
 
