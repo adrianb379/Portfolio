@@ -29,7 +29,7 @@
 
 
             <h1>Adrian Bogado</h1>
-            <p>Desarrollador Junior</p>
+            <H3><p>Desarrollador Junior</p></H3>
             
         </header>
 
