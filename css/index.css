@@ -72,3 +72,10 @@ button {
 h4 strong{
     text-align: center;
 }
+i{
+    font-size: 80px;
+}
+.contenido-tex{
+    background-color:rgb(138, 129, 129);
+    font-size: 20px;
+}
