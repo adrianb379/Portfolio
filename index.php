@@ -43,9 +43,6 @@
   <p class="h1">Principales Proyectos</p>
 </div>
 <div class="user-projects">
-  <div class="images-right">
-    <img  src="img/ecom.jpg" class="img-fluid" alt="Responsive image">
-  </div>
   <div class="contents">
     <h2> <strong>-Ecommerce</strong> </h2>
     <ul>
@@ -54,11 +51,11 @@
     <p>Ecommerce desarrollado con HTML,CSS,PHP Y MYSQL. Cuenta con un abm de productos, registro,login, contacto,faqs,entre otras.</p>
     <a class="project-link" href="https://github.com/adrianb379/EcommerceDH">Ir al repositorio</a>
   </div>
+  <div class="images-right">
+    <img  src="img/ecom.jpg" class="img-fluid" alt="Responsive image">
+  </div>
 </div>
 <div class="user-projects">
-  <div class="images-left">
-    <img  src="img/game.jpg" class="img-fluid" alt="Responsive image">
-  </div>
   <div class="contents-right">
     <h4> <strong>-Juego de Preguntas y Respuestas</strong> </h4>
     <ul>
@@ -66,15 +63,33 @@
     </ul>
     <p> Juego de preguntas y respuestas desarrollado con HTML,CSS,PHP,POO,MY SQL. Luego se paso el proyecto a LARAVEL
     El mismo cuenta con un panel de admin(carga,alta,baja de preguntas), registros,login,faqs,contactos,entre otros</p>
+   
     <a class="project-link" href="https://github.com/ArielJans/DH-Laravel">Ir al repositorio</a>
+    <div class="images-left">
+    <img  src="img/game.jpg" class="img-fluid" alt="Responsive image">
+  </div>
+  </div>
+  <div class="user-projects">
+  
+  <div class="contents-right">
+    <h4> <strong>-Gestor de tareas stack MEAN</strong> </h4>
+    <ul>
+      <li> Caracteristicas</li>
+    </ul>
+    <p> Gestor de tareas realizado en practoca de Stack MEAN(MongoDB, Express, Node JS y Angular) entre otras herramientas propias de este Full stack.
+    <a class="project-link" href="https://github.com/ArielJans/DH-Laravel">Ir al repositorio</a>
+    <div class="images-left">
+    <img  src="img/20200528_161226.jpg" class="img-fluid" alt="Responsive image">
+  </div>
   </div>
 </div>
 
         <script src="index.js"></script>
+        <div class="footer">Todos los derechos reservados - Adrian Bogado</div>
         </div>
         <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
-    <footer>Todos los derechos reservados - Adrian Bogado</footer>
+  
     </body>
 </html>

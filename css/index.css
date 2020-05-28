@@ -41,3 +41,11 @@ button {
     color: white;
     font-weight: 700;
 }
+.footer{
+    background-color: black;
+    color:white;
+    text-align: center;
+}
+.user-details{
+    background-color: brown;
+}
