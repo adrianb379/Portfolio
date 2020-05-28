@@ -81,7 +81,7 @@
       <br>
     <a class="project-link" href="https://github.com/ArielJans/DH-Laravel">Ir al repositorio</a>
     <div class="images-left">
-    <img  src="img/20200528_161226.jpg" class="img-fluid" alt="Responsive image">
+    <img  src="img/20200528_172255.jpg" class="img-fluid" alt="Responsive image">
   </div>
   </div>
 </div>
