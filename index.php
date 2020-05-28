@@ -30,7 +30,7 @@
 
             <h1>Adrian Bogado</h1>
             <p>Desarrollador Junior</p>
-            <h3>PRUEBE ESTAS APLICACIONES WEB:</h3>
+            <h4>PRUEBE ESTAS APLICACIONES WEB:</h4>
         </header>
 
         <section id="projects">
@@ -40,15 +40,15 @@
             </div>
         </section>
         <div class="user-details">
-  <p class="h1">Principales Proyectos</p>
+  <p class="h1">Principales Proyectos:</p>
 </div>
 <div class="user-projects">
   <div class="contents">
-    <h2> <strong>-Ecommerce</strong> </h2>
+    <h2> <strong >-Ecommerce</strong> </h2>
     <ul>
       <li> Caracteristicas</li>
     </ul>
-    <p>Ecommerce desarrollado con HTML,CSS,PHP Y MYSQL. Cuenta con un abm de productos, registro,login, contacto,faqs,entre otras.</p>
+    <p>Ecommerce desarrollado con HTML,CSS,PHP Y MYSQL. Cuenta con un abm de productos, registro,login, contacto,faqs,entre otras. Diseño responsivo, bootstrap</p>
     <a class="project-link" href="https://github.com/adrianb379/EcommerceDH">Ir al repositorio</a>
   </div>
   <div class="images-right">
@@ -61,8 +61,8 @@
     <ul>
       <li> Caracteristicas</li>
     </ul>
-    <p> Juego de preguntas y respuestas desarrollado con HTML,CSS,PHP,POO,MY SQL. Luego se paso el proyecto a LARAVEL
-    El mismo cuenta con un panel de admin(carga,alta,baja de preguntas), registros,login,faqs,contactos,entre otros</p>
+    <p> Juego de preguntas y respuestas desarrollado con HTML,CSS,PHP,POO,MYSQL. Luego se paso el proyecto a LARAVEL
+    El mismo cuenta con un panel de admin(carga,alta,baja de preguntas), registros,login,faqs,contactos,entre otros.</p>
    
     <a class="project-link" href="https://github.com/ArielJans/DH-Laravel">Ir al repositorio</a>
     <div class="images-left">
@@ -77,6 +77,8 @@
       <li> Caracteristicas</li>
     </ul>
     <p> Gestor de tareas realizado en practoca de Stack MEAN(MongoDB, Express, Node JS y Angular) entre otras herramientas propias de este Full stack.
+      <br>
+      <br>
     <a class="project-link" href="https://github.com/ArielJans/DH-Laravel">Ir al repositorio</a>
     <div class="images-left">
     <img  src="img/20200528_161226.jpg" class="img-fluid" alt="Responsive image">

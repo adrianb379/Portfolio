@@ -4,7 +4,11 @@
     margin: 0;
     box-sizing: border-box;
     background-color: black;
-    color: black;
+    color: white;
+    font-family: 'Oswald', sans-serif;
+}
+header{
+    background-color: black;
 }
 
 a {
@@ -53,7 +57,13 @@ button {
 }
 .user-projects{
     background-color: blue;
+    border-bottom: blueviolet;
+    border-bottom-width: 1px solid #045;
+
 }
 .navbar.navbar-expand-lg.navbar-light.bg-light{
     background-color: rgb(125, 133, 151);
+}
+h4 strong{
+    text-align: center;
 }
