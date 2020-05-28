@@ -30,10 +30,11 @@
 
             <h1>Adrian Bogado</h1>
             <p>Desarrollador Junior</p>
-            <h4>PRUEBE ESTAS APLICACIONES WEB:</h4>
+            
         </header>
 
         <section id="projects">
+        <h4 style="text-alight:center ">PRUEBE ESTAS APLICACIONES WEB:</h4>
             <div class="inProjects">
                 <a href="apps/ContactList"><button>Lista de Contactos</button></a>
                 <a href="apps/cash-machine"><button>Cajero Automatico</button></a>
@@ -55,6 +56,7 @@
     <img  src="img/ecom.jpg" class="img-fluid" alt="Responsive image">
   </div>
 </div>
+
 <div class="user-projects">
   <div class="contents-right">
     <h4> <strong>-Juego de Preguntas y Respuestas</strong> </h4>
@@ -68,7 +70,8 @@
     <div class="images-left">
     <img  src="img/game.jpg" class="img-fluid" alt="Responsive image">
   </div>
-  </div>
+</div>
+</div>
   <div class="user-projects">
   
   <div class="contents-right">
@@ -76,12 +79,12 @@
     <ul>
       <li> Caracteristicas</li>
     </ul>
-    <p> Gestor de tareas realizado en practoca de Stack MEAN(MongoDB, Express, Node JS y Angular) entre otras herramientas propias de este Full stack.
+    <p> Gestor de tareas realizado en practica de Stack MEAN(MongoDB, Express, Node JS y Angular) entre otras herramientas propias de este Full stack.
       <br>
       <br>
     <a class="project-link" href="https://github.com/ArielJans/DH-Laravel">Ir al repositorio</a>
     <div class="images-left">
-    <img  src="img/20200528_172255.jpg" class="img-fluid" alt="Responsive image">
+    <img  src="img/20200528_173153.jpg" class="img-fluid" alt="Responsive image">
   </div>
   </div>
 </div>

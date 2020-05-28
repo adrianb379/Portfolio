@@ -1,5 +1,5 @@
 
-* {
+.container {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
@@ -8,11 +8,15 @@
     font-family: 'Oswald', sans-serif;
 }
 header{
-    background-color: black;
+    background-color: rgb(138, 129, 129);
 }
 
 a {
     text-decoration: none;
+    color :white;
+}
+nav.navbar.navbar-expand-lg.navbar-light.bg-light{
+    background-color: black;
 }
 
 body {
@@ -22,6 +26,7 @@ body {
 header {
     text-align: center;
     padding: 20px;
+    color: white;
 }
 
 #projects {
@@ -48,17 +53,17 @@ button {
     font-weight: 700;
 }
 .footer{
-    background-color: black;
+    background-color:  rgb(138, 129, 129);
     color:white;
     text-align: center;
 }
 .user-details{
-    background-color: brown;
+    background-color: rgb(138, 129, 129);
 }
 .user-projects{
-    background-color: blue;
-    border-bottom: blueviolet;
-    border-bottom-width: 1px solid #045;
+    background-color: black;
+    
+    border-bottom: 4px solid #045;
 
 }
 .navbar.navbar-expand-lg.navbar-light.bg-light{
