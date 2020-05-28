@@ -82,7 +82,7 @@
     <p> Gestor de tareas realizado en practica de Stack MEAN(MongoDB, Express, Node JS y Angular) entre otras herramientas propias de este Full stack.
       <br>
       <br>
-    <a class="project-link" href="https://github.com/ArielJans/DH-Laravel">Ir al repositorio</a>
+    <a class="project-link" href="https://github.com/adrianb379/Practica-Stack-MEAN">Ir al repositorio</a>
     <div class="images-left">
     <img  src="img/20200528_173153.jpg" class="img-fluid" alt="Responsive image">
   </div>
